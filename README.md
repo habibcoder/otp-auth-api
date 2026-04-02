@@ -132,7 +132,7 @@ Authorization: Bearer <token>
 GET /api/users/check?phone=+8801712345678
 ```
 
-### Get All Users (Admin)
+### Get All Users
 ```http
 GET /api/users
 ```
