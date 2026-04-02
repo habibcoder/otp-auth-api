@@ -1,6 +1,6 @@
 # 📱 Phone-Auth — OTP Authentication API
 
-A clean, production-ready Phone OTP (One-Time Password) authentication API built with **Node.js + Express**. Supports multiple SMS providers for real SMS delivery and includes a development mode for local testing.
+A clean, simple Phone OTP (One-Time Password) authentication API built with **Node.js + Express**. Supports multiple SMS providers for real SMS delivery and includes a development mode for local testing.
 
 ## ✨ Features
 
@@ -149,6 +149,7 @@ Visit [https://sms.bd/signup/](https://sms.bd/signup/) and sign up.
 #### Step 2 — Get API Key
 - Log in to your dashboard
 - Navigate to **API** section
+- Generate a API key if you don't have one
 - Copy your API key
 
 #### Step 3 — Configure Environment

@@ -5,7 +5,7 @@
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node server.js",
+    "start": "DEV_MODE=false node server.js",
     "dev": "DEV_MODE=true node server.js"
   },
   "dependencies": {
